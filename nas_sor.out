@@ -1,0 +1,19 @@
+
+
+   Stopping Reason      Max Iterations       Num of Iteration    Machine Epsilon     X seq. tolerance     Res seq. tolerance       Diag. Dominance(R)
+ --------------------  ------------------   ------------------  ------------------  ------------------  -----------------------   ---------------------
+    xSeq. Converge             50                    15           2.2204460e-16       9.0538607e-17         2.2377260e-16                 true
+
+
+ The Solution Vector x is: 
+----------------------------
+
+	x[0] = 1.30434782608695610000e-02
+	x[1] = -6.52173913043478400000e-02
+	x[2] = 2.13043478260869600000e-01
+
+
+
+  Execution Time
+ ------------------  
+   1.34000e+03 ms
